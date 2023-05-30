@@ -3,6 +3,7 @@
 GIT CLONE REPO
 
 - [ ] Create desktop folder
+- [ ] Add template file into desktop folder if applicable.
 - [ ] Clone the repository you want git clone Says “Cloning into Repositiory.”
 - [ ] Move by dragging files outside of main file.
 - [ ] Run git remote rm origin “name of repo clone”
